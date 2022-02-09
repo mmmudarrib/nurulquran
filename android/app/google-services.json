@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "613483500155",
+    "project_id": "nurulquran-49d91",
+    "storage_bucket": "nurulquran-49d91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613483500155:android:0d5aa27d8d6369d03b48de",
+        "android_client_info": {
+          "package_name": "com.nurulquran.nurulquranlms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613483500155-c424nnlntdgovu1nddm9dm263c925slq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nurulquran.nurulquranlms",
+            "certificate_hash": "5fa533901d9a7dc3df29efb5e654f5d364df2510"
+          }
+        },
+        {
+          "client_id": "613483500155-0iqa3lo4u9gk8oq4uaavrt7en7g7lmle.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgo6JEFYEFgKvrnB66yjIaAG8WKxuAEZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613483500155-0iqa3lo4u9gk8oq4uaavrt7en7g7lmle.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

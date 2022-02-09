@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>613483500155-1cfl7osje2eqo223mnfatid9608jugj9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.613483500155-1cfl7osje2eqo223mnfatid9608jugj9</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>613483500155-c424nnlntdgovu1nddm9dm263c925slq.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCHHVYqSdM8AqUc0VF4tNa0NjX2drKETwc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>613483500155</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.nurulquran.nurulquranlms</string>
+	<key>PROJECT_ID</key>
+	<string>nurulquran-49d91</string>
+	<key>STORAGE_BUCKET</key>
+	<string>nurulquran-49d91.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:613483500155:ios:61c745f1285c7c4d3b48de</string>
+</dict>
+</plist>
